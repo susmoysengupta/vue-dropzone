@@ -16,6 +16,10 @@ A simple drop zone, built with Vue3, vite, tailwindcss.
   npm install
 ```
 
+## Upcoming
+
+- `Vuex` integration
+
 ## Authors
 
 - [@Susmoy Sen Gupta](https://github.com/SusmoySenGupta)
